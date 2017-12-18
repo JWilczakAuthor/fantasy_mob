@@ -1,5 +1,6 @@
 # fantasy_mob
 Mob fantasy collaborative effort
+
 Rated: G
 
 ## Guidelines
